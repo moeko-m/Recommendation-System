@@ -69,7 +69,7 @@ Due to data protection policies, datasets used in this project are not publicly 
 
 ## Developed By
 
-- **Moeko Mitani** [LinkedIn](https://www.linkedin.com/in/moeko-mitani-437205163/)  
+- **Moeko Mitani** [LinkedIn](https://www.linkedin.com/in/moeko-mitani/)  
 - Ana Caleiro
 - Duarte Marques
 - Oumaima Ben Hfaiedh 
